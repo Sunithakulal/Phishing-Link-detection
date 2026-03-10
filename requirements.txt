@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+fpdf
+numpy
+scikit-learn
+python-whois
+streamlit-lottie
+pandas
